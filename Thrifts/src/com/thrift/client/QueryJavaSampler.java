@@ -10,6 +10,7 @@ public class QueryJavaSampler extends AbstractJavaSamplerClient {
 	@Override
 	public SampleResult runTest(JavaSamplerContext arg0) {
 		// TODO Auto-generated method stub
+		
 		SampleResult result = new SampleResult();
 		result.sampleStart();
 		try {
